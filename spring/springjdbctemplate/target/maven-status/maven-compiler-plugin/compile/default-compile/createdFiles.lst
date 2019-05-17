@@ -1,0 +1,6 @@
+com\kgisl\springjdbctemplate\App.class
+com\kgisl\springjdbctemplate\config\AppConfig.class
+com\kgisl\springjdbctemplate\dao\PersonDAO.class
+com\kgisl\springjdbctemplate\model\Person.class
+com\kgisl\springjdbctemplate\model\PersonMapper.class
+com\kgisl\springjdbctemplate\dao\PersonDAOImpl.class

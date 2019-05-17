@@ -1,0 +1,5 @@
+com\kg\xhrservlet\controller\MysqlConnect.class
+com\kg\xhrservlet\controller\RegisterServlet.class
+com\kg\xhrservlet\model\Country.class
+com\kg\xhrservlet\model\Register.class
+com\kg\xhrservlet\controller\CountryServlet.class

@@ -1,0 +1,3 @@
+com\kgisl\springconfig\confi\ServletIntializer.class
+com\kgisl\springconfig\confi\WebMvcConfig.class
+com\kgisl\springconfig\confi\HibernateConfig.class
